@@ -1,0 +1,21 @@
+{
+  "name": "ts-strategy-pattern-samples",
+  "version": "1.0.0",
+  "description": "Typescript Strategy Pattern Samples",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "strategy-pattern",
+    "design-patterns"
+  ],
+  "author": "Muhtalip Dede",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
